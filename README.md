@@ -2,4 +2,4 @@
 
 I'm a CS reject (Data Science) major at UCSD. 
 
-![One Moment Please](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f9a92f4-ca4b-426b-9ccf-4611dd1acfbd/deaqehe-66219861-e903-459c-8a74-af11cec5a32a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJmOWE5MmY0LWNhNGItNDI2Yi05Y2NmLTQ2MTFkZDFhY2ZiZFwvZGVhcWVoZS02NjIxOTg2MS1lOTAzLTQ1OWMtOGE3NC1hZjExY2VjNWEzMmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zqEuCh93dxBDciBBVLT2AuheeSdBslVpCR9z7pLBuhA)
+![One Moment Please](https://ibb.co/wMyTKBz)
