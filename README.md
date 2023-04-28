@@ -1,6 +1,6 @@
 ### Welcome!
 
-I'm a CS reject (Data Science) major at UCSD. Currently, I'm working on https://www.kbdlab.io/.
+I'm a CS reject (Data Science) major at UCSD. Currently, I'm working on https://profilepro.ai.
 
 Areas of Interest:
 * Web Development
