@@ -1,6 +1,6 @@
 ### Welcome!
 
-I'm a CS reject (Data Science) major at UCSD. Currently, I'm working on https://usestylize.com and https://usemoment.ai.
+I'm a CS reject (Data Science) major at UCSD. Currently, I'm working on https://usestylize.com.
 
 Past work:  
 https://profilepro.ai  
