@@ -17,6 +17,9 @@ Areas of Interest:
 * Data Science
   - Python
   - Pandas
+ 
+Send me a message: https://dm.new/schmitz.
+
 
 <img src= "https://i.ibb.co/Fg69BmD/one-moment-please-by-khotsodube-deaqehe.gif" alt= "One Moment Please Illustration" width = "400" >
 
