@@ -3,7 +3,7 @@
 I'm a CS reject (Data Science) major at UCSD. Currently, I'm working on https://userecipe.com
 
 Past work:  
-https://usestylize.com
+https://usestylize.com  
 https://profilepro.ai  
 https://promptgallery.app  
 https://kbdlab.io
