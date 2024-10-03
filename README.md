@@ -1,4 +1,4 @@
-### Welcome!
+## Hey There :)
 
 I'm a CS reject (Data Science) major at UCSD. Currently, I'm working on https://userecipe.com
 
@@ -8,16 +8,18 @@ https://profilepro.ai
 https://promptgallery.app  
 https://kbdlab.io
 
-Areas of Interest:
+Things I work with:
 * Web Development
   - Next.js
-  - Tailwind CSS
+  - Tailwind
 * Generative AI
+  - LLM Workflows
   - Image editing
   - Custom image generation models
 * Data Science
   - Python
-  - Pandas
+  - ML
+  - Pandas/ Scikit/ Numpy
  
 Send me a message: https://dm.new/schmitz.
 
