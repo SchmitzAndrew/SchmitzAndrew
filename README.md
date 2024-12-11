@@ -13,13 +13,12 @@ Things I work on:
 * Web Development
   - Next.js
   - Tailwind
-  - Scalable backends
 * Generative AI
   - LLM Workflows
   - Image editing
   - Stable diffusion
 * Data Science
-  - Python
+  - Data analysis
   - ML
   - Data engineering
  
