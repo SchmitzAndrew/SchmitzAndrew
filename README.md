@@ -1,8 +1,9 @@
 ## Hey There :)
 
-I'm a CS reject (Data Science) major at UCSD. Currently, I'm building minutes @ [slam.ventures](https://slam.ventures) 
+I'm a CS reject (Data Science) major at UCSD. 
 
 Past work:  
+https://myminutes.ai
 https://userecipe.com  
 https://usestylize.com  
 https://profilepro.ai  
