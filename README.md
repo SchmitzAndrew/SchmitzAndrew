@@ -3,7 +3,7 @@
 I'm a CS reject (Data Science) major at UCSD. 
 
 Past work:  
-https://myminutes.ai
+https://myminutes.ai  
 https://userecipe.com  
 https://usestylize.com  
 https://profilepro.ai  
