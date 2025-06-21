@@ -1,6 +1,6 @@
 ## Hey There :)
 
-I'm a CS reject (Data Science) major at UCSD. 
+Building in B2C.
 
 Past work:  
 https://myminutes.ai  
